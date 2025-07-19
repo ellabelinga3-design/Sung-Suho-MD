@@ -1,21 +1,21 @@
 {
-  "name": "SUHO-MD",
-  "description": "Javascript WhatsApp bot made by Mr Sung",
-  "logo": "https://files.catbox.moe/vcofni.jpg",
+  "name": "versace",
+  "description": "Javascript WhatsApp bot made by Mr versace",
+  "logo": "https://files.catbox.moe/ymh0h2.jpg",
   "keywords": ["Sung-Suho-MD","LITE-XD"],
   "success_url": "/",
 
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Must Start with 'suho~'",
+      "description": "drakonis~tmkVTJqb#rQB26-OR0VXrLAay_WYUA8ERxF4H4ppPDIYsxfUr4NA",
       "required": true,
-      "value": ""
+      "value": "drakonis~tmkVTJqb#rQB26-OR0VXrLAay_WYUA8ERxF4H4ppPDIYsxfUr4NA"
     },
       "BOT_NAME": {
         "description": "write here your bot name.",
         "required": true,
-        "value": "sᴜʜᴏ-ᴍᴅ"      
+        "value": "versace"      
     },  
     "MODE": {
       "description": "Set private/public/inbox/groups",
@@ -32,12 +32,12 @@
     "OWNER_NAME": {
       "description": "Put Owner Name Here",
       "required": true,
-      "value": "ᴍᴀʟᴠɪɴ ᴋɪɴɢ"
+      "value": "versace"
     },
     "OWNER_NUMBER": {
       "description": "Put only one Owner Number Here",
       "required": true,
-      "value": "1(236)362-1958"
+      "value": "237687889124"
     },
     
     "PRESENCE": {
